@@ -1,5 +1,9 @@
 ### Hi there I'm Renato Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
 
+<div>
+  <img width="100%" src="/assets/darth-vader.gif">
+</div>
+
 <img width="100%" src="/assets/separator.png">
 
 ```js
