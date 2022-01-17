@@ -1,5 +1,7 @@
 ### Hi there I'm Renato Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
 
+<img width="100%" src="/assets/separator.png">
+
 ```js
   const User = {
     name: "Renato Santos",
@@ -10,9 +12,9 @@
   }
 ```
 
-##
 
  <div>
+  <img width="82%" src="/assets/separator.png">
   <a href="https://github.com/renatojfsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatojfsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatojfsantos&layout=compact&langs_count=7&theme=dracula"/>
@@ -20,8 +22,10 @@
  
 ##
  
-<div>
+<img width="100%" src="/assets/separator.png">
  
+<div>
+  
  ### 🛠️ Hard Skills
   
  <div style="display: inline_block"><br>
@@ -42,6 +46,7 @@
 </div>
  
 ##
+<img width="100%" src="/assets/separator.png">
  
 <div>
  
@@ -53,7 +58,8 @@
 </div>
  
 ##
-
+<img width="100%" src="/assets/separator.png">
+  
 <div>
  
  ### 🤝 Contats
