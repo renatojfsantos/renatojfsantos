@@ -12,7 +12,7 @@
     nationality: "Brazilian",
     role: "Developer React-Native",
     skills: ["JavaScript", "TypeScript"],
-    currentCompany: "SAS - Plataforma de Educação"
+    currentCompany: "Arco Tech - Technology Services by Arco Education."
   }
 ```
 
@@ -63,7 +63,7 @@
  
  ### 👀 Curiosity
  
-- 🔭 I’m currently working on **[SAS - Plataforma de Educação](https://saseducacao.com.br/).**
+- 🔭 I’m currently working on **[Arco Tech](https://arcoeducacao.com.br/).**
 - 🌱 I’m currently learning: React-Native, ReactJS and NodeJS
   
 </div>
