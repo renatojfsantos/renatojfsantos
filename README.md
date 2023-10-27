@@ -10,7 +10,7 @@
   const User = {
     name: "Renato Santos",
     nationality: "Brazilian",
-    role: "Developer React-Native",
+    role: "Developer React-Native, ReactJS and NodeJs",
     skills: ["JavaScript", "TypeScript"],
     currentCompany: "Arco Tech - Technology Services by Arco Education."
   }
